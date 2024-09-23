@@ -1,0 +1,6 @@
+.nav-pill .nav-link{
+    color: grey;
+}
+.nav-pill .nav-link.active{
+    color: rgb(142, 36, 170);
+}
